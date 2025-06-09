@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi! I’m Maísa 👋
 
-<!--
-**maisafgomes/maisafgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s degree in Applied Computing with a focus on AI  
+🧠 Data scientist and machine learning enthusiast passionate about solving real-world problems  
 
-Here are some ideas to get you started:
+## 🚀 Current focus areas:
+- Developing and deploying machine learning models with FastAPI and Streamlit  
+- Applying AI to practical, real-life challenges
+- Studying AI ethics and interpretability to build responsible and transparent systems    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Featured projects:
+👁️ [Interpretable Deep Learning for Glaucoma Detection](https://github.com/maisafgomes/interpretability-convolutional-neural-networks)  
+
+## ✨ Fun facts:
+🦒 Lover of giraffes
+📚 Book lover 
+🎮 In my free time, I enjoy playing The Sims  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maisafernandesgomes/)
